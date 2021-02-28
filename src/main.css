@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.col {
+  height: 100vh;
+}
+
+.col-2 {
+  width: 24%;
+  background-color: aqua;
+  display: inline-block;
+}
+
+.col-6 {
+  width: 74%;
+  background-color: yellow;
+  display: inline-block;
+}
+
+.action-list {
+  background-color: white;
+  width: 100%;
+  padding: 10px;
+}
+
+.action-item {
+  display: inline-block;
+  margin: 2px;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.drag-here-module {
+  margin-bottom: 10px;
+  width: 100%;
+  height: 40px;
+  color: gray;
+  text-align: center;
+  border: 1px dotted gray;
+}
+
+.drag-here-list {
+  padding: 5px;
+}
